@@ -17,8 +17,7 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 ### [Plataforma QuickCook](https://github.com/Alessdev/SQL-POWER-BI-INGRESOS-HOTEL) - 06/2023
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
-. 
-- **Stack tecnológico:** MySQL, Python.
+
 
 ### [Ecommerce SmartShop](https://github.com/Alessdev/proyecto-parque-totoral) - 08/2023
 - **Descripción:** Desarrollo del fronted de página ecommerce con carrito de compras moderno de productos electrónicos.
@@ -26,7 +25,7 @@ Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Ji
 
 ### [Automatización a través de ETL](https://github.com/Alessdev/Python-SQL-ETL) - 12/2023
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo en una comunidad de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
-- **Stack tecnológico:** JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Cloudinary, Figma.
+- **Stack tecnológico:** MySQL, Python.
 
 
 
