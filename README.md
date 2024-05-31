@@ -4,11 +4,12 @@
 Soy un apasionado del desarrollo web, con experiencia en el área fronted y backend, además de tener experiencia en desarrollo ágil. Busco oportunidades para aplicar mis habilidades en un entorno desafiante y de crecimiento rápido.
 
 ## Tecnologías y Herramientas
-- **Lenguajes:** JavaScript, HTML, Python, SQL
-- **Bases de Datos:** MySQL, PostgreSQL
-- **Desarrollo Web:** HTML5, CSS3, JavaScript, APIs RESTful
-- **Accesibilidad Web:** WCAG, ARIA
-- **Herramientas:** Git, Docker, Jupyter Notebooks
+- **Lenguajes:**  Fluido en JavaScript, Python Intermedio, conocimientos en Java, C y C++.
+- **Bases de Datos:** MySQL, PostgreSQL, SQL Server, MongoDB
+- **Desarrollo Web:** HTML5, CSS3, APIs RESTful
+- **Frameworks:** Expressjs, Nodejs.
+- **Herramientas:** Git, Trelo.
+- **Agile:** Scrum.
 
 
 ## Proyectos Destacados
