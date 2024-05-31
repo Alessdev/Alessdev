@@ -8,7 +8,7 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 - **Bases de Datos:** MySQL, PostgreSQL, SQL Server, MongoDB
 - **Desarrollo Web:** HTML5, CSS3, APIs RESTful
 - **Frameworks:** Expressjs, Nodejs.
-- **Herramientas:** Git, Trelo.
+- **Herramientas:** Git, Trello.
 - **Agile:** Scrum.
 
 
