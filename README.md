@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 
 ## Proyectos Destacados
 
-### [Plataforma QuickCook](https://github.com/Alessdev/SQL-POWER-BI-INGRESOS-HOTEL) - 06/2023
+### [Plataforma QuickCook](https://nocountry-frontend.onrender.com/) - 06/2023
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
 
