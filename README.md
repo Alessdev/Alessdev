@@ -19,7 +19,7 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
 
 
-### [Ecommerce SmartShop](https://github.com/Alessdev/proyecto-parque-totoral) - 08/2023
+### [Ecommerce SmartShop](https://github.com/Alessdev/shopping-cart-) - 08/2023
 - **Descripción:** Desarrollo del fronted de página ecommerce con carrito de compras moderno de productos electrónicos.
 - **Stack tecnológico:** Javascript, html, CSS.
 
