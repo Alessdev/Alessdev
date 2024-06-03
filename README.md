@@ -14,16 +14,16 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 
 ## Proyectos Destacados
 
-### [Plataforma QuickCook](https://nocountry-frontend.onrender.com/) - 06/2023
+### [Plataforma QuickCook](https://nocountry-frontend.onrender.com/) - 03/2024
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
 
 
-### [Ecommerce SmartShop](https://github.com/Alessdev/shopping-cart-) - 08/2023
+### [Ecommerce SmartShop](https://github.com/Alessdev/shopping-cart-) - 01/2024
 - **Descripción:** Desarrollo del fronted de página ecommerce con carrito de compras moderno de productos electrónicos.
 - **Stack tecnológico:** Javascript, html, CSS.
 
-### [Automatización a través de ETL](https://github.com/Alessdev/Python-SQL-ETL) - 12/2023
+### [Automatización a través de ETL](https://github.com/Alessdev/Python-SQL-ETL) - 10/2023
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo en una comunidad de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 - **Stack tecnológico:** MySQL, Python.
 
