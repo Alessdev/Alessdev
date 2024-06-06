@@ -1,7 +1,7 @@
 # ¡Hola, soy Danieli Alessandro Robles Gambini! 👋
 
 ## Sobre mí
-Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de Ingeniería, con experiencia en entornos de desarrollo ágil, tomando roles en área fronted y backend. Busco oportunidades para aplicar mis habilidades en un entorno desafiante y de crecimiento rápido.
+Soy un apasionado del desarrollo de software, estudiante de la Universidad Nacional de Ingeniería, con experiencia en entornos de desarrollo. Busco oportunidades para aplicar mis habilidades en un entorno desafiante y de crecimiento rápido.
 
 ## Tecnologías y Herramientas
 - **Lenguajes:**  Fluido en JavaScript, Python Intermedio, conocimientos en Java, C y C++.
