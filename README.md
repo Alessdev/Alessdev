@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo web, estudiante de la Universidad Nacional de I
 
 ## Proyectos Destacados
 
-### [Plataforma QuickCook](https://nocountry-frontend.onrender.com/) - 03/2024
+### [Plataforma QuickCook](https://github.com/No-Country/c17-04-m-node-react/tree/main) - 03/2024
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
 
