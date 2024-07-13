@@ -24,8 +24,8 @@ Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Ji
 - **Stack tecnológico:** Javascript, html, CSS.
 
 ### [Automatización a través de ETL](https://github.com/Alessdev/Python-SQL-ETL) - 10/2023
-- **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo en una comunidad de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
-- **Stack tecnológico:** MySQL, Python.
+- **Descripción:** Desarrollé un proceso ETL con Python para obtener las universidades nacionales del Perú de forma automatizada.
+- **Stack tecnológico:** DBSqlite, Python.
 
 
 
