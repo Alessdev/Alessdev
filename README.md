@@ -17,7 +17,7 @@ Soy un apasionado del desarrollo de software estudié en la Universidad Nacional
 ### [Plataforma QuickCook](https://github.com/No-Country/c17-04-m-node-react/tree/main) - 03/2024
 - **Descripción:** Desarrollé la plataforma QuickCook con un equipo de trabajo de Argentina, tomando como rol principal: área backend y base de datos, utilizando prácticas de desarrollo ágil a través de presentaciones técnicas al cliente.
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
-Page: https://nocountry-frontend.onrender.com/ (El servidor utilizado es gratuito, por ello que la página toma su tiempo en cargar)
+Page: https://nocountry-frontend.onrender.com/ (El servidor utilizado es gratuito, por ello la página toma su tiempo en cargar)
 
 
 ### [Ecommerce SmartShop](https://github.com/Alessdev/shopping-cart-) - 01/2024
