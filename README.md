@@ -10,6 +10,10 @@ Soy un apasionado de la seguridad de la información estudié en la Universidad 
 - **Frameworks:** Expressjs, Nodejs.
 - **Herramientas:** Git, Trello.
 - **Agile:** Scrum.
+- **Redes:** Fundamentos de Redes.
+- **Otros:** Microsoft Office(Excel, PowerPoint, Word), Inteligencia Artificial
+- **Agile:** Scrum.
+- 
 
 
 ## Proyectos Destacados
