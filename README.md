@@ -1,7 +1,7 @@
 # ¡Hola, soy Danieli Alessandro Robles Gambini! 👋
 
 ## Sobre mí
-Soy un apasionado de la seguridad de la información estudié en la Universidad Nacional de Ingeniería, con experiencia en entornos de desarrollo. Busco oportunidades para aplicar mis habilidades en un entorno desafiante y de crecimiento rápido.
+Soy un apasionado del área de tecnología y el software estudié en la Universidad Nacional de Ingeniería, con experiencia en entornos de desarrollo. Busco oportunidades para aplicar mis habilidades en un entorno desafiante y de crecimiento rápido.
 
 ## Tecnologías y Herramientas
 - **Lenguajes:**  Fluido en JavaScript, Python Intermedio, conocimientos en Java, C y C++.
@@ -23,7 +23,15 @@ Soy un apasionado de la seguridad de la información estudié en la Universidad 
 Stack tecnológico: JavaScript, React.js, Express.js, MongoDB, Scrum, Trello, Jira, Cloudinary, Figma.
 Page: https://nocountry-frontend.onrender.com/ NOTA: El servidor utilizado es gratuito, por ello la página toma su tiempo en cargar
 
+### [Ecommerce SmartShop](https://github.com/Alessdev/shopping-cart-) - 01/2024
 
+- **Descripción:** Desarrollo del fronted de página ecommerce con carrito de compras moderno de productos electrónicos.
+- **Stack tecnológico:** Javascript, html, CSS.
+
+### [Automatización a través de ETL](https://github.com/Alessdev/Python-SQL-ETL) - 10/2023
+
+- **Descripción:** Desarrollé un proceso ETL con Python para obtener las universidades nacionales del Perú de forma automatizada.
+- **Stack tecnológico:** DBSqlite, Python.
 
 
 
