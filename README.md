@@ -13,7 +13,7 @@ Soy un apasionado del área de AI y el desarrollo de software estudié en la Uni
 - **Redes:** Fundamentos de Redes.
 - **Otros:** Microsoft Office(Excel, PowerPoint, Word), Inteligencia Artificial
 - **Agile:** Scrum.
-- 
+  
 
 
 ## Proyectos Destacados
