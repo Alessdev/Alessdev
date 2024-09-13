@@ -7,7 +7,7 @@ Soy un apasionado del área de AI y el desarrollo de software estudié en la Uni
 - **Lenguajes:**  Fluido en JavaScript, Python Intermedio, conocimientos en Java, C y C++.
 - **Bases de Datos:** MySQL, PostgreSQL, SQL Server, MongoDB
 - **Desarrollo Web:** HTML5, CSS3, APIs RESTful
-- **Frameworks/Librerias:** Keras, Pytorch, TensorFlow, Expressjs, Nodejs.
+- **Frameworks/Librerias:** React.js, Keras, Pytorch, TensorFlow, Expressjs, Nodejs.
 - **Herramientas:** Git, Trello.
 - **Agile:** Scrum.
 - **Redes:** Fundamentos de Redes.
