@@ -16,8 +16,9 @@ Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con
 ## 🚀 Proyectos Destacados
 
 ### [Pipeline de Datos para E-Commerce Brasileño](https://github.com/Alessdev)
-- **Descripción:** Diseño e implementación de un pipeline en GCP para analizar datos del dataset *Olist Brazilian E-Commerce* (Kaggle), con ingesta desde GCS, modelado en BigQuery, orquestación con Airflow y dashboards en Looker Studio.  
-- **Stack tecnológico:** Python, SQL, Google Cloud (BigQuery, GCS), Apache Airflow, Looker Studio.
+- **Descripción:** Diseño e implementación de un pipeline de procesamiento en tiempo (casi) real para autorizaciones de tarjeta, utilizando arquitectura Medallion en Azure.
+Incluye ingesta streaming desde Event Hubs (Kafka endpoint), procesamiento con Databricks (PySpark / Structured Streaming), almacenamiento transaccional en Delta Lake (Bronze/Silver/Gold) sobre ADLS Gen2, y consumo analítico desde Power BI / Synapse. 
+- **Stack tecnológico:** Python, PySpark, Delta Lake, Apache Spark Structured Streaming, Azure Event Hubs, Azure Databricks, ADLS Gen2, Azure Key Vault, Azure Synapse, Power BI.
 
 ### [Plataforma QuickCook](https://github.com/No-Country/c17-04-m-node-react/tree/main) – 03/2024
 - Desarrollo backend y base de datos en equipo ágil, integrando Express.js, MongoDB y React.js.  
