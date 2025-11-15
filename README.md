@@ -16,6 +16,9 @@ Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con
 
 ## 🚀 Proyectos Destacados
 
+### [SpeechGuard AI](https://github.com/Alessdev/speechguard-AI/blob/main/README.md)
+SpeechGuard AI es un sistema completo de análisis conversacional diseñado para evaluar la calidad del servicio en un Contact Center mediante técnicas de NLP y modelos de lenguaje ejecutados localmente con Ollama.
+
 ### [Bank-Fraud- AZURE](https://github.com/Alessdev/bank-fraud-azure/blob/main/README.md)
 - **Descripción:** Diseño e implementación de un pipeline de procesamiento en tiempo (casi) real para autorizaciones de tarjeta, utilizando arquitectura Medallion en Azure.
 Incluye ingesta streaming desde Event Hubs (Kafka endpoint), procesamiento con Databricks (PySpark / Structured Streaming), almacenamiento transaccional en Delta Lake (Bronze/Silver/Gold) sobre ADLS Gen2, y consumo analítico desde Power BI / Synapse. 
