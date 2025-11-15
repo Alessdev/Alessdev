@@ -15,7 +15,7 @@ Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con
 
 ## 🚀 Proyectos Destacados
 
-### [Pipeline de Datos para E-Commerce Brasileño](https://github.com/Alessdev)](https://github.com/Alessdev/bank-fraud-azure/blob/main/README.md)
+### [Bank-Fraud- AZURE](https://github.com/Alessdev/bank-fraud-azure/blob/main/README.md)
 - **Descripción:** Diseño e implementación de un pipeline de procesamiento en tiempo (casi) real para autorizaciones de tarjeta, utilizando arquitectura Medallion en Azure.
 Incluye ingesta streaming desde Event Hubs (Kafka endpoint), procesamiento con Databricks (PySpark / Structured Streaming), almacenamiento transaccional en Delta Lake (Bronze/Silver/Gold) sobre ADLS Gen2, y consumo analítico desde Power BI / Synapse. 
 - **Stack tecnológico:** Python, PySpark, Delta Lake, Apache Spark Structured Streaming, Azure Event Hubs, Azure Databricks, ADLS Gen2, Azure Key Vault, Azure Synapse, Power BI.
