@@ -4,7 +4,7 @@
 Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con formación en la Universidad Nacional de Ingeniería y experiencia en desarrollo de software. Me especializo en construir pipelines de datos eficientes, desde la ingesta hasta la visualización, así como proyectos de IA utilizando tecnologías modernas en entornos cloud. Busco contribuir en proyectos desafiantes donde pueda aplicar y ampliar mis habilidades en procesamiento, modelado y automatización de datos.
 
 ## Tecnologías y Herramientas
-- **IA / Machine Learning: NLP, LLMs, TensorFlow, PyTorch, Keras
+- **IA / Machine Learning:** NLP, LLMs, TensorFlow, PyTorch, Keras
 - **Lenguajes:** Python (Intermedio), SQL, JavaScript, C y C++  
 - **Bases de Datos:** BigQuery, PostgreSQL, SQL Server, MongoDB  
 - **Cloud & Data:** Google Cloud (BigQuery, Cloud Storage), ETL/ELT, Apache Airflow  
