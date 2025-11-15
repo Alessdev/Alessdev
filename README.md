@@ -9,7 +9,7 @@ Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con
 - **Bases de Datos:** BigQuery, PostgreSQL, SQL Server, MongoDB  
 - **Cloud & Data:** Google Cloud (BigQuery, Cloud Storage), ETL/ELT, Apache Airflow  
 - **Desarrollo Web:** HTML5, CSS3, APIs RESTful  
-- **Frameworks/Librerías:** React.js, Express.js, TensorFlow, PyTorch, Keras  
+- **Frameworks:** React.js, Express.js, TensorFlow 
 - **Herramientas:** Git, Trello, Jira, Figma  
 - **Metodologías:** Scrum  
 - **Otros:** Excel Intermedio, Visualización con Looker Studio y Power BI  
