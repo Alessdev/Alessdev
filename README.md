@@ -1,7 +1,7 @@
 # ¡Hola, soy Danieli Alessandro Robles Gambini! 👋
 
 ## Sobre mí
-Apasionado por la **Ingeniería de Datos** y la **Inteligencia Artificial**, con formación en la Universidad Nacional de Ingeniería y experiencia en desarrollo de software. Me especializo en construir pipelines de datos eficientes, desde la ingesta hasta la visualización, así como proyectos de IA utilizando tecnologías modernas en entornos cloud. Busco contribuir en proyectos desafiantes donde pueda aplicar y ampliar mis habilidades en procesamiento, modelado y automatización de datos.
+Apasionado por la **QA Automatization** e **Ingeniería de Datos**, con formación en la Universidad Nacional de Ingeniería y experiencia en desarrollo de software. Me especializo en construir pipelines de datos eficientes, desde la ingesta hasta la visualización, así como proyectos de IA utilizando tecnologías modernas en entornos cloud. Busco contribuir en proyectos desafiantes donde pueda aplicar y ampliar mis habilidades en procesamiento, modelado y automatización de datos.
 
 ## Tecnologías y Herramientas
 - **IA / Machine Learning:** NLP, LLMs, TensorFlow, PyTorch, Keras
